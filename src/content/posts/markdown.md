@@ -66,6 +66,10 @@ for i in range(10):
     print i
 ```
 
+```bash
+git commit -m "Here's a commit message"
+```
+
 ### An h3 header
 
 Now a nested list:
