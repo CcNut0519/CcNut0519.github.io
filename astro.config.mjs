@@ -23,7 +23,7 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://ccnut.vercel.app",
+  site: "https://ccnut0519.github.io",
   base: "/",
   integrations: [
     tailwind(),
