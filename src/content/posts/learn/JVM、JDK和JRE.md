@@ -2,7 +2,7 @@
 title: JVM、JDK和JRE
 published: 2024-04-11
 description: 'JDK、JRE和JVM的概念是什么，它们之间又有什么关系'
-image: 'https://oss.javaguide.cn/github/javaguide/java/basis/jdk-include-jre.png'
+image: 'https://image-host.pages.dev/learn/202404110102949.png'
 tags: [Java, Android]
 category: 编程学习
 draft: false
