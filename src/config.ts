@@ -33,7 +33,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'https://image-host.pages.dev/learn/2024-04-08-logo.jpg',
   name: 'CcNut',
-  bio: '一个北邮学生的个人小站',
+  bio: '一名北邮学生的个人小站',
   links: [
     {
       name: 'Twitter',
