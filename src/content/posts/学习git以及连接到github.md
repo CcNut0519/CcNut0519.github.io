@@ -1,11 +1,11 @@
 ---
 title: 学习git以及连接到github
-published: 2024-03-20 21:05:26
-tags: 
-  - git
-  - github
-category: 
-  - 编程学习
+published: 2024-03-20
+description: ''
+image: ''
+tags: [git, github]
+category: '编程学习'
+draft: false
 ---
 
 ## 一、git安装

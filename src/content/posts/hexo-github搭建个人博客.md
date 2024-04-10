@@ -1,11 +1,11 @@
 ---
 title: hexo+github搭建个人博客
-published: 2024-03-21 13:23:39
-tags: 
-  - hexo
-  - github
-category: 
-  - 编程学习
+published: 2024-03-21
+description: '本地使用hexo搭建个人博客，并部署到github上'
+image: ''
+tags: [hexo, github]
+category: '编程学习'
+draft: false
 ---
 
 ## 一、安装git并且与github绑定

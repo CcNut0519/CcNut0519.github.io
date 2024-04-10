@@ -1,11 +1,11 @@
 ---
 title: Android学习
-published: 2024-04-02 15:15:58
-tags: 
-  - Java
-  - Android
-category: 
-  - 编程学习
+published: 2024-04-02
+description: ''
+image: ''
+tags: [Java, Android]
+category: '编程学习'
+draft: false
 ---
 
 ## 1. Android界面布局
