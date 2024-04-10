@@ -9,7 +9,7 @@ import { LinkPreset } from './types/config'
 export const siteConfig: SiteConfig = {
   title: 'CcNut`s Blog',
   subtitle: '分享知识，记录生活',
-  lang: 'zh-CN',
+  lang: 'zh_cn',
   themeHue: 250,
   banner: {
     enable: false,
