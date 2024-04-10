@@ -4,7 +4,7 @@ published: 2024-03-21 13:23:39
 tags: 
   - hexo
   - github
-categories: 
+category: 
   - 编程学习
 ---
 
