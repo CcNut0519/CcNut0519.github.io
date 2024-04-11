@@ -1,10 +1,10 @@
 ---
 title: Markdown Test
 published: 2024-03-20
-description: A simple test of a Markdown blog post.
+description: 'A simple test of a Markdown blog post.'
 image: ''
-tags: [Markdown, Blogging, Demo]
-category: Test
+tags: [Markdown, Demo]
+category: 'Test'
 draft: false
 ---
 

@@ -3,8 +3,8 @@ title: JVM、JDK和JRE
 published: 2024-04-11
 description: 'JDK、JRE和JVM的概念是什么，它们之间又有什么关系'
 image: 'https://image-host.pages.dev/learn/202404110102949.png'
-tags: [Java, Android]
-category: 编程学习
+tags: [Java, JDK, JRE, JVM]
+category: '编程学习'
 draft: false
 ---
 
