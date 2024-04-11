@@ -12,13 +12,13 @@ draft: false
 
 现在我们编写一个简单的`.java`源代码文件，以经典的Hello World程序为例。
 
-    ```java
-    public class HelloWorld {
-        public static void main(String[] args) {
-            System.out.println("Hello, World!");
-        }
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
     }
-    ```
+}
+```
 
 ## 二、编译Java程序
 
@@ -28,9 +28,9 @@ draft: false
 
 编译命令如下：  
 
-    ```bash
-    javac <filename>.java
-    ```
+```bash
+javac <filename>.java
+```
 
 编译完成后，会在当前目录下生成一个`.class`文件。
 
