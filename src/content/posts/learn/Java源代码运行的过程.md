@@ -1,5 +1,5 @@
 ---
-title: learn/Java源代码运行的过程
+title: Java源代码运行的过程
 published: 2024-04-11
 description: '从编写好的一个代码开始，一个Java程序是如何运行的？'
 image: ''
