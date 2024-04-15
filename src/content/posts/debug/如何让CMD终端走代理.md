@@ -4,7 +4,7 @@ published: 2024-04-14
 description: '关于CMD终端无法通过代理访问Firebase得出的经验'
 image: ''
 tags: [CMD, Windows, Firebase, 代理]
-category: '编程学习'
+category: 'Debug'
 draft: false
 ---
 
