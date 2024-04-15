@@ -1,5 +1,5 @@
 ---
-title: 如何让CMD终端走代理
+title: Android应用打包realease版本APP闪退
 published: 2024-04-15
 description: '打包flutter安卓应用release版本闪退问题解决方案'
 image: ''
