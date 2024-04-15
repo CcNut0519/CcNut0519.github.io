@@ -1,8 +1,8 @@
 ---
 title: flutter优化realease包大小
 published: 2024-04-15
-description: ''
-image: ''
+description: '优化realease包体积'
+image: 'https://image-host.pages.dev/learn/2024-04-15-202404151806744.png'
 tags: [Android, Flutter, 打包, 优化]
 category: 'Debug'
 draft: false
