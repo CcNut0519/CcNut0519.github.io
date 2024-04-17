@@ -3,7 +3,7 @@ title: StatefulWidget & StatelessWidget
 published: 2024-04-17
 description: 'StatefulWidget和StatelessWidget是什么，它们有什么区别'
 image: ''
-tags: [Android, flutter, UI]
+tags: [Android, Flutter, UI]
 category: '编程学习'
 draft: false
 ---

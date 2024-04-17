@@ -3,7 +3,7 @@ title: flutter的渲染流程
 published: 2024-04-17
 description: ''
 image: ''
-tags: [Android, flutter, Dart, 渲染, UI]
+tags: [Android, Flutter, Dart, 渲染, UI]
 category: '编程学习'
 draft: false
 ---
