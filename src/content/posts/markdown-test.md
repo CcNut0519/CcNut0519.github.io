@@ -181,6 +181,6 @@ which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 
 ## 图床图片测试
 
-![logo.jpg](https://lsky.ccnut.top/i/2024/08/01/66ab50da2b33c.jpg)
+![logo.jpg](https://lsky.ccnut.top/i/2024/08/02/66ac45edde71b.jpg)
 
-![木兰湾灯塔.jpg](https://lsky.ccnut.top/i/2024/08/01/66ab50b016b0f.jpg)
+[![木兰湾灯塔.jpg](https://lsky.ccnut.top/i/2024/08/02/66ac45eb703a7.jpg)](https://lsky.ccnut.top/i/2024/08/02/66ac45eb703a7.jpg)
