@@ -179,7 +179,7 @@ which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 
 <iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-## 图床测试
+## 图床图片测试
 
 ![logo.jpg](https://lsky.ccnut.top/i/2024/08/01/66ab50da2b33c.jpg)
 
