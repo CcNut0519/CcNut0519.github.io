@@ -54,7 +54,7 @@ conda deactivate py39
 ### 查看已有环境
 
 ``` bash
-# 查看已安装的python环境
+#查看已安装的python环境
 conda info -e  #conda info --envs
 conda env list
 #当前环境会通过一个星号 (*) 标识
