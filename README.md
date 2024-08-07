@@ -1,55 +1,19 @@
-# 🍥Fuwari
+# 🍥CcNut`s Blog
 
-A static blog template built with [Astro](https://astro.build).
+这是我的个人博客网站, 基于 [Astro](https://astro.build).
 
-[**🖥️Live Demo (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**🌏中文 README**](https://github.com/saicaca/fuwari/blob/main/README.zh-CN.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**📦Old Hexo Version**](https://github.com/saicaca/hexo-theme-vivia)
+[**🖥️博客地址**](https://ccnut0519.github.io/)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
 
 ![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
-## ✨ Features
+## 介绍一下我
 
-- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
-- [x] Smooth animations and page transitions
-- [x] Light / dark mode
-- [x] Customizable theme colors & banner
-- [x] Responsive design
-- [ ] Comments
-- [x] Search
-- [ ] TOC
+我是北京邮电大学软件工程专业的一名学生，今年22岁，我热爱编程，喜欢研究各种编程语言，喜欢分享自己的编程经验。
 
-## 🚀 How to Use
+## 我的技能
 
-1. [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
-2. To edit your blog locally, clone your repository, run `pnpm install` AND `pnpm add sharp` to install dependencies.  
-   - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/).
-
-## ⚙️ Frontmatter of Posts
-
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: /images/cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
----
-```
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                             | Action                                           |
-|:------------------------------------|:-------------------------------------------------|
-| `pnpm install` AND `pnpm add sharp` | Installs dependencies                            |
-| `pnpm dev`                          | Starts local dev server at `localhost:4321`      |
-| `pnpm build`                        | Build your production site to `./dist/`          |
-| `pnpm preview`                      | Preview your build locally, before deploying     |
-| `pnpm new-post <filename>`          | Create a new post                                |
-| `pnpm astro ...`                    | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro --help`                 | Get help using the Astro CLI                     |
+- **编程语言**：C,C++,python,Dart,markdown
+- **开发框架**：Vue,Flutter,PyTorch,Qt
+- **数据库**：MySQL,SQLite,Firebase
+- **其它工具**：VsCode,Axure,Android Studio,Keil,Vireshark,Git,Vim,Vmware,Docker
+- **其他**：熟练掌握Linux操作系统，Windows系统，了解TCP/IP协议，了解HTTP协议，熟悉常用设计模式，熟悉软件工程的基本理论和方法论，有STM32F407和2C设备开发经验
